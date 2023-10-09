@@ -33,7 +33,7 @@ defmodule HLTE.MixProject do
       {:ex_aws, "~> 2.2"},
       {:ex_aws_s3, "~> 2.3"},
       {:ex_aws_ses, "~> 2.3"},
-      {:hackney, "~> 1.18"},
+      {:hackney, "~> 1.19.1"},
       {:mail, "~> 0.2"}
     ]
   end
